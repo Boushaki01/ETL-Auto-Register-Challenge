@@ -9,10 +9,9 @@
 
 ```bash
 npm i
+Add ETL authToken in 'YOUR_TOKEN_HERE'
 
 ```
-
-Add ETL authToken in 'YOUR_TOKEN_HERE'
 
 ### Petunjuk
 
